@@ -48,7 +48,7 @@
 
           <v-divider></v-divider>
 
-          <v-list two-line>
+          <v-list two-line class="ml-2 mr-2">
             <template v-if="!loading">
               <div
                 v-for="(customer, index) in filteredCustomers"

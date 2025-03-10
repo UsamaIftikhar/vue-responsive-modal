@@ -92,4 +92,4 @@ src/
 
 ## Deployment
 
-- The project is deployed on Vercel at 
+- The project is deployed on Vercel at https://vue-responsive-modal.vercel.app/
